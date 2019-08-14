@@ -1,43 +1,11 @@
 {
-   "posts":[
-      {
-         "id":1,
-         "title":"Post 1"
-      },
-      {
-         "id":2,
-         "title":"Post 2"
-      },
-      {
-         "id":3,
-         "title":"Post 3"
-      }
-   ],
-   "comments":[
-      {
-         "id":1,
-         "body":"some comment",
-         "postId":1
-      },
-      {
-         "id":2,
-         "body":"some comment",
-         "postId":1
-      }
-   ],
-   "products":[
-      {
-         "id":1,
-         "title":"milk",
-         "price":1.99
-      },
-      {
-         "id":2,
-         "title":"Starbuck Coffee",
-         "price":5.5
-      }
-   ],
-   "profile":{
-      "name":"codeMmaster"
-   }
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "codeMmaster"
+  }
 }
