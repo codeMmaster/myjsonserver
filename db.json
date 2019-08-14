@@ -8,4 +8,8 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "products": [
+    { "id": 1, "title": "milk", "price": 1.99 },
+    { "id": 2, "title": "Starbuck Coffee", "price": 5.5 }
+   ]
 }
